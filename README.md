@@ -2,7 +2,7 @@
 I am not the sole creator of this code. I used the code from https://fable.io/repl/ (Sample Pacman)
 as a base and then built upon it. The end result is a mixed code, some mine and some Fable's. 
 
-# Function
+# About
 This is an F# simple reinforcement learning project. It is the game of Pacman
 where the ghosts learn to capture the Pacman using a common ruleset. Learning occurs by picking the best ruleset.
 
