@@ -13,11 +13,13 @@ This is the easiest choice of the two and also recommended for fast results. For
 is more suitable.
 
 - Step 1: Go to https://fable.io/repl/
-- Step 2: Select the text file of your choice. All codes are functional and they represent different stages of my project.
-- Step 3: Copy-paste the code on the left screen of the FABLE repl and press compile
+- Step 2: Navigate from the left menu to "Fun and Games" and then "Pacman". This makes sure the compiler gets all the relevant dependencies           and packages for the Pacman game. 
+- Step 3: Select the text file of your choice. All of my text files are functional and represent different stages of my project and hence             different results of my experiment.
+          Copy-paste the code on the left screen of the FABLE repl and press compile.
 - Step 4: Observe results and feel free to modify code or explore it more. 
 
 ## Choice 2: Run locally
-This is the more difficult solutions which is more suitable if you want to develop on the code.
+This is the difficult way which is suitable if you want to develop on the code.
 Go to https://fable.io/ and follow the instructions on the "Getting Started" section.
 Open a Project in an IDE and install the .nuget packages that are required (usually Fable.Core,Fable.Browser (all of them))
+Fetch all files from Github and manage dependencies. Then run the code.
