@@ -6,7 +6,7 @@ as a base and then built upon it. The end result is a mixed code, some mine and 
 This is an F# simple reinforcement learning project. It is the game of Pacman
 where the ghosts learn to capture the Pacman using a common ruleset. Learning occurs by picking the best ruleset.
 
-**You can find my report of the project in the pdf file "Relevant Expertise Aggregation".**
+### [Project Report](https://github.com/mchatzis/Relevant-Expertise-Aggregation-A-simple-reinforcement-learning-approach-/blob/master/Relevant%20Expertise%20Aggregation.pdf)
 
 # Instructions
 
